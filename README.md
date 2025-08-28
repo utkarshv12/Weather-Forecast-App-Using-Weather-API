@@ -25,8 +25,7 @@ Prerequisites
 A modern web browser.
 An API key from OpenWeatherMap Api
 Installation
-Clone the repository:
- git clone https://github.com/kaushalsahu07/weather.git
+
 Navigate to the project directory:
 cd weather
 Change API key for all the js files
